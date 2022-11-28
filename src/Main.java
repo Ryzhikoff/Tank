@@ -13,6 +13,7 @@ public class Main {
         customTank.goForward(201);
         customTank.printPosition();
         customTank.printPosition();
+        System.out.println("All bug fixed");
     }
 }
 
